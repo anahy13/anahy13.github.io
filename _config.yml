@@ -1,0 +1,11 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: Maria Izabel Cavassim Alves	
+url: http://izabelcavassim.wordpress.com/about/
+description: Statistical Geneticist
+github: izabelcavassim
+gravatar_url: http://pt.gravatar.com/izabelcavassim
