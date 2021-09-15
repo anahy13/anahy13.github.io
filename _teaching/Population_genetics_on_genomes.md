@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters level course"
 permalink: /teaching/Population_genetics_on_genomes
 venue: "Aarhus University, Bioinformatics Research Centre"
-date: 2018
+date: 2018-01-01
 location: "Aarhus, Denamark"
 ---
 
