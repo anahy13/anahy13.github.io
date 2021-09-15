@@ -2,7 +2,7 @@
 title: "QCBio Research Seminar"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/QCBio_seminar
 venue: "UC Los Angeles, Department of Testing"
 date: 2021-19-01
 location: "Los Angeles, California (virtual)"
