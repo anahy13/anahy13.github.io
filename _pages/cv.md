@@ -9,32 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV [here](http://izabelcavassim.github.io/files/MICA_CV_2021_September.pdf).
+
 Education
 ======
 * B.S. in Agriculture Engineering, University of Sao Paulo, 2014
 * M.S. in Bioinformatics, Aarhus University, 2018
 * Ph.D in Bioinformatics, Aarhus University, 2021
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
