@@ -9,7 +9,7 @@ location: "Aarhus University, Denmark"
 ---
 
 
-This course was organized by Professors at BiRC (Mikkel Schierup) and the Dept of Moleculart Biology (Stig Andersen). 
+This course was organized by Professors at BiRC (Mikkel Schierup) and the Dept. of Molecular Biology (Stig Andersen). 
 I helped in the development of the exercises and I was the Teaching Assistant for two consecutive years.
 
 In this Summer course, students learned about NGS technologies and applications. They also learned how to use Methods for assembling genomes from NGS data (both with a reference genome or de novo assembly) and learned about some of emphasis on assessing NGS data quality (Quality control, accuracy of base calling). 
