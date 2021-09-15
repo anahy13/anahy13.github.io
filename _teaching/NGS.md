@@ -1,20 +1,24 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Summer course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
-location: "City, Country"
+location: "Aarhus University, Denmark"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+This course was organized by Professors at BiRC (Mikkel Schierup) and the Dept of Moleculart Biology (Stig Andersen). 
+I helped in the development of the exercises and I was the Teaching Assistant for two consecutive years.
 
-Heading 2
-======
+In this Summer course, students learned about NGS technologies and applications. They also learned how to use Methods for assembling genomes from NGS data (both with a reference genome or de novo assembly) and learned about some of emphasis on assessing NGS data quality (Quality control, accuracy of base calling). 
+Galaxy was the platform used for analyses. 
 
-Heading 3
-======
+At the end of the course the students would be able to:
+
+* Describe key challenges in analysis of NGS data.
+* Explain the theoretical foundation of methods using NGS for assembling and analysing genomes.
+* Discuss the bioinformatics methods for genome analysis.
+* Discuss original literature within the subjects.
+* Use bioinformatics tools within the selected application areas.
