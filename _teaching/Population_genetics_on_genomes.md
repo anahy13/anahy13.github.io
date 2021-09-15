@@ -24,3 +24,5 @@ The participants must at the end of the course be able to:
 * Reflect on strengths and limitations of population genomic methods.
 * Interpret and analyze results of population genomic inference.
 * Formulate population genetics hypotheses based on data
+
+The pratical exercises are found [here](https://github.com/izabelcavassim/PG_2018) 
