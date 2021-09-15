@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/QCBio-seminar
 venue: "UC Los Angeles, Department of Testing"
-date: 2021-19-01
+date: 2021-01-19
 location: "Los Angeles, California (virtual)"
 ---
 
