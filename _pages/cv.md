@@ -37,4 +37,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently contributing to the development of a standard library of population
+genetic models.
+* Providing computational research support to projects initiated by
+experimentalists at UCLA while also training researchers in Bioinformatics
+and population genetics.
