@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Next Generation Sequencing"
 collection: teaching
 type: "Summer course"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+permalink: /teaching/NGS
+venue: "Aarhus University, Bioinformatics Research Center"
+date: 2016-01-01
 location: "Aarhus University, Denmark"
 ---
 
