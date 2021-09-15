@@ -2,7 +2,7 @@
 title: "Tree of life"
 collection: teaching
 type: "Undergraduate/Masters level course"
-permalink: /teaching/Treeoflife.md
+permalink: /teaching/Treeoflife
 venue: "Aarhus University, BiRC"
 date: 2017-01-01
 location: "Aarhus, Denmark"
