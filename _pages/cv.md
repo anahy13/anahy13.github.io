@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Agriculture Engineering, University of Sao Paulo, 2014
 * M.S. in Bioinformatics, Aarhus University, 2018
-* Ph.D in Bioinformatics, Aarhus University, 2021
+* Ph.D in Bioinformatics, Aarhus University, 2020
 
 Publications
 ======
