@@ -38,7 +38,7 @@ Teaching
 Service and leadership
 ======
 * Currently contributing to the development of a standard library of population
-genetic models.
+genetic models [stdpopsim](https://stdpopsim.readthedocs.io/).
 * Providing computational research support to projects initiated by
 experimentalists at UCLA while also training researchers in Bioinformatics
 and population genetics through the [QCBioCollaboratory](https://qcb.ucla.edu/collaboratory/people/).
