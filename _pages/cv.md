@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](http://izabelcavassim.github.io/files/MICA_CV_2021_September.pdf).
+You can find my CV [here](http://izabelcavassim.github.io/files/MICA_CV_2022_February.pdf).
 
 Education
 ======
@@ -41,4 +41,4 @@ Service and leadership
 genetic models.
 * Providing computational research support to projects initiated by
 experimentalists at UCLA while also training researchers in Bioinformatics
-and population genetics.
+and population genetics through the [QCBioCollaboratory](https://qcb.ucla.edu/collaboratory/people/).
