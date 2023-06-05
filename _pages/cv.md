@@ -13,17 +13,9 @@ You can find my CV [here](http://izabelcavassim.github.io/files/MICA_CV_2022_Feb
 
 Education
 ======
-* B.S. in Agriculture Engineering, University of Sao Paulo, 2014
-* M.S. in Bioinformatics, Aarhus University, 2018
-* Ph.D in Bioinformatics, Aarhus University, 2020
+* B.S. in Bioengineering, University of California, Los Angeles, 2021-2025
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Posters
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -37,8 +29,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently contributing to the development of a standard library of population
-genetic models [stdpopsim](https://stdpopsim.readthedocs.io/).
-* Providing computational research support to projects initiated by
-experimentalists at UCLA while also training researchers in Bioinformatics
-and population genetics through the [QCBioCollaboratory](https://qcb.ucla.edu/collaboratory/people/).
+* Organize Black/Hispanic STEM panels with undergraduate/graduate students at UCLA and industry leaders [CEED MAP](https://www.ceed.ucla.edu/map-page/).
+* Design STEM enrichment activities for students (e.g. DNA Extraction Labs and Building a Lightbulb)
